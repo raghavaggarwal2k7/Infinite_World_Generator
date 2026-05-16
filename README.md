@@ -14,13 +14,13 @@ By the end of the week, you should have a working procedural terrain setup, a ba
 ## Tutorials & Resources
 
 ### Main Tutorial
-Geometry Nodes Terrain Tutorial  
+#### Geometry Nodes Terrain Tutorial  
 https://www.youtube.com/watch?v=d4k9-KF6GkI
 
-### Beginner Geometry Nodes Introduction
-https://youtu.be/Q53LOCFVp70?si=eXJFsB0wux5wpP_n
+#### Beginner Geometry Nodes Introduction
 
-### Perlin Noise Explanation
+
+#### Perlin Noise Explanation
 https://youtu.be/MMj3WU4gORI?si=_r8sku2YObuWdfpt
 
 ---
